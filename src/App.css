@@ -1,4 +1,4 @@
-.App {
+/*.App {
   text-align: center;
 }
 
@@ -21,4 +21,16 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}*/
+
+.tabbody {
+	width: 200px; height: auto; border: 1px solid black;
+}
+
+.App {
+	padding: 20px;
+}
+
+img {
+    height: 50px;
 }
